@@ -3,6 +3,8 @@
 
 /*/app/*.iml
 
+.DS_Store
+
 ### Android ###
 # Built application files
 /*/*.apk
